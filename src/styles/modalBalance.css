@@ -1,0 +1,21 @@
+.containerBalance {
+  text-align: center;
+}
+
+.divMontoTipo {
+  width: 15vw;
+  margin: 5px !important;
+}
+
+.divDetalleMovimiento {
+  display: flex;
+  flex-direction: column;
+}
+
+.textFieldCMovimiento{
+    margin-top: 1vh !important;
+}
+
+.botonCrearMovimiento{
+    margin-top: 1vh !important;
+}

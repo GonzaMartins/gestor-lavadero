@@ -1,0 +1,21 @@
+.selectDateContainer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2vh;
+}
+.custom-date-picker .MuiInputBase-root {
+    color: white; /* Cambiar el color del texto a blanco */
+    background-color: transparent; /* Hacer el fondo transparente */
+  }
+  
+  /* Cambiar el color del borde y el color del texto en el selector del día */
+  .custom-date-picker .MuiPickersDay-daySelected {
+    background-color: white; /* Cambiar el color de fondo cuando se selecciona un día */
+    color: black; /* Cambiar el color del texto del día seleccionado */
+  }
+  
+  /* Cambiar el color de los bordes del DatePicker */
+  .custom-date-picker .MuiOutlinedInput-notchedOutline:before {
+    border-color: white !important; /* Importante para sobrescribir los estilos predeterminados */
+  }

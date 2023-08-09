@@ -1,0 +1,25 @@
+.divModalCP{
+    margin-top: 2vh;
+}
+
+.selectModal{
+    width: auto;
+    margin-right: 2vh;
+    margin-top: 2vh;
+    min-width: 25vw;
+    max-width: 25vw;
+
+}
+
+.numberSelectModal {
+    width: 10vh;
+    margin-top: 2vh !important;
+}
+
+.buttonEnviarModal {
+    margin-top: 3vh;
+}
+
+.buttonMas{
+    margin-left: 1vw;
+}

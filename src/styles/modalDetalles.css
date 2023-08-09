@@ -1,0 +1,13 @@
+.divDebe{
+    display: flex;
+    flex-direction: column;
+}
+
+.cobrarButon {
+    align-self: flex-start;
+}
+
+.debeContainer{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,10 @@
+.containerTableMovimientos{
+    display: flex;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    justify-content: space-between; /* Alinea los divs horizontalmente */
+    margin: 1vh;
+}
+.textContainer{
+    margin-top: 1vh;
+}
